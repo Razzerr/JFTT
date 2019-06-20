@@ -1,0 +1,10 @@
+Początek
+koniec
+Początek i koniec
+przerwy pomiędzy i dodatkowe
+Likwiduje linie puste?
+A co się stanie teraz?
+
+Words: 17
+Lines: 6
+
